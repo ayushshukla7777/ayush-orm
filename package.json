@@ -1,0 +1,11 @@
+{
+  "name": "ayush-orm",
+  "version": "1.0.0",
+  "description": "A Native ORM where you wont need to larn new syntax. The type ur sql syntax and we will run the it to with the database for you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
