@@ -1,6 +1,6 @@
 {
   "name": "@ayushninja/sql-orm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An ORM where you can use native query",
   "main": "index.js",
   "type": "module",
