@@ -72,7 +72,7 @@ Make sure to install the necessary database-specific packages according to your 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Contribution
-Feel free to contribute to this project by opening issues or creating pull requests on GitHub at https://github.com/ayushshukla7777/@ayushninja/sql-orm.
+Feel free to contribute to this project by opening issues or creating pull requests on GitHub at https://github.com/ayushshukla7777/ayush-orm.
 
 # Contact
 For any questions or feedback, you can reach out to Ayush at ayushshukla7777@gmail.com.
